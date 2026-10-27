@@ -1,0 +1,16 @@
+Year,City,Crime_Type,Cases
+2021,Pune,Theft,120
+2021,Mumbai,Robbery,85
+2021,Nashik,Murder,25
+2022,Pune,Theft,145
+2022,Mumbai,Robbery,95
+2022,Nashik,Murder,30
+2023,Pune,Cybercrime,180
+2023,Mumbai,Theft,160
+2023,Nashik,Robbery,70
+2024,Pune,Murder,35
+2024,Mumbai,Cybercrime,220
+2024,Nashik,Theft,110
+2025,Pune,Robbery,90
+2025,Mumbai,Murder,45
+2025,Nashik,Cybercrime,150
